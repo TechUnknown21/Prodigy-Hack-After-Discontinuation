@@ -23,4 +23,4 @@ Select load unpacked and enter the folder, then enter unzipped, then enter exten
 From now on when you are at prodigy an arrow will be at the top left of your screen, hit it for the hacks! If it shows a privacy policy hit accept.
 <br>
 <br>
-THATS IT!!
+WAIT FOR PRODIGY TO FULLY LOAD, THEN THE ARROW WILL APPEAR!!
