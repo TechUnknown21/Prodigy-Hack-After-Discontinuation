@@ -21,3 +21,10 @@ Select load unpacked and upload the extension file!
 <br>
 # How To Hack
 From now on when you are at prodigy an arrow will be at the top left of your screen, hit it for the hacks!
+<br>
+<br>
+<a href="#">
+<img src="https://techhelpforanyone.org/logo.png" width="300" height="300">
+</a>
+<p>This repository was made and developed by Tech Help For Anyone (not the code)</p>
+https://techhelpforanyone.org 
