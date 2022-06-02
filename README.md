@@ -1,8 +1,6 @@
 # Prodigy-Hack-After-Discontinuation
 The prodigy hack after discontinuation!!
 # TO USE:
-<br>
-<br>
 Download all of the code by going to the file button, and hit download zip.
 <br>
 <br>
