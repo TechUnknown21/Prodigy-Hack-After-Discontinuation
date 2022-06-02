@@ -3,7 +3,7 @@ The prodigy hack after discontinuation!!
 <br>
 <br>
 # Credits
-I DO NOT OWN THIS CODE ALL CREDITS TO PRODIGYPNP https://github.com/ProdigyPNP/ghostPHEx/tree/main/Unzipped/extension
+I DO NOT OWN THIS CODE, ALL CREDITS TO PRODIGYPNP https://github.com/ProdigyPNP/ghostPHEx/tree/main/Unzipped/extension
 <br>
 <br>
 # TO USE:
