@@ -13,7 +13,5 @@ Then go to chrome://extensions and turn on developer mode
 Select load unpacked and upload the extension file!
 <br>
 <br>
-# How to hack
-<br>
-<br>
+# How To Hack
 From now on when you are at prodigy an arrow will be at the top left of your screen, hit it for the hacks!
