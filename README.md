@@ -10,7 +10,7 @@ I DO NOT OWN THIS CODE, ALL CREDITS TO PRODIGYPNP https://github.com/ProdigyPNP/
 Open this link https://github.com/ProdigyPNP/ghostPHEx
 <br>
 <br>
-Download all of the code by going to the file button, and hit download zip.
+Download all of the code by going to the code button, and hit download zip.
 <br>
 <br>
 Then go to chrome://extensions and turn on developer mode
